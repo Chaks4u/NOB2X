@@ -115,6 +115,7 @@
 - Poloniex - World's largest cryptocurrency exchange
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
 - [QuickBT](https://twitter.com/QuickBT/status/899159626725302272) - Buy Bitcoin with Debit, Credit, or Cash
+-'[Quikcoin](https://www.quikcoin.in) - India's Gateway to Cryptoworld
 - [Samourai Wallet](https://samouraiwallet.com) - Android Bitcoin wallet
 - Satoshi Counter - Canadian OTC Bitcoin exchange
 - Satoshi Tango - Latin American Bitcoin exchange
@@ -140,7 +141,6 @@
 - [XBT.eu](https://www.xbt.eu) - Bitcoin Blockchain Statistics
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - One of India's largest Bitcoin exchanges
-
 ### Meetup groups and other organizations:
 
 - [Bitcoin Argentina Meetup](https://medium.com/@Ulrich_98986/why-the-brazilian-and-argentinian-bitcoin-communities-oppose-segwit2x-801edc213af8)
