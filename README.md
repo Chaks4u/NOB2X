@@ -115,6 +115,7 @@
 - Poloniex - World's largest cryptocurrency exchange
 - [Prasos](https://twitter.com/technom4ge/status/895679121803685888) - Leading Nordic bitcoin broker
 - [QuickBT](https://twitter.com/QuickBT/status/899159626725302272) - Buy Bitcoin with Debit, Credit, or Cash
+- Quikcoin- India's Gateway to Crypto currencies
 - [Samourai Wallet](https://samouraiwallet.com) - Android Bitcoin wallet
 - Satoshi Counter - Canadian OTC Bitcoin exchange
 - Satoshi Tango - Latin American Bitcoin exchange
